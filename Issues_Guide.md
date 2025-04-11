@@ -30,7 +30,7 @@ Please include:
 
 ### Step 4: Submit the Issue
 1. Review what you've written
-2. Click the green "Submit new issue" button at the bottom
+2. Click the green "Create" button at the bottom
 
 ## Creating a Feature Request
 
@@ -54,7 +54,7 @@ Please include:
 
 ### Step 4: Submit the Feature Request
 1. Review what you've written
-2. Click the green "Submit new issue" button at the bottom
+2. Click the green "Create" button at the bottom
 
 ## After Submitting an Issue
 
